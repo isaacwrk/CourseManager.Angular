@@ -1,4 +1,4 @@
-### SOBRE O PROJETO # <br>
+### SOBRE O PROJETO  <br>
 Foi desenvolvido em Angular 8 + bootstrap,<br>
 É um gerenciador de Cursos, não há ligação com banco de dados, apenas para estudo inicial do Angular, com dados estáticos.
 
